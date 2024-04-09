@@ -1,4 +1,4 @@
-// Q__2:  find triangle Type:
+// Q__4:  find triangle Type:
 
 /* Write a function called checkTriangleType that takes three
 parameters and represeting the lenghts of the sides of a triangle.

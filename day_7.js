@@ -1,4 +1,4 @@
-// Q__6:  maximum number in array
+// Q__7:  maximum number in array
 //
 /*write a function findMax that takes and array of 
 of numbers as an input and returns the maximum number

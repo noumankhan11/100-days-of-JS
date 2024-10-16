@@ -1,4 +1,4 @@
-// Q__14: find minimum number
+// Q__15: find minimum number
 //
 /* 14: Write a function findMin that takes an array of numbers as input and returns the minimum value found in the array,
 
